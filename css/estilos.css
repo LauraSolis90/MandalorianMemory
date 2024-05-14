@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+img {
+    width: 150px;
+    height: 150px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+#memory {
+    position: absolute;
+    left: 25%;
+    right: 25%;
+    background-color: darkgoldenrod;
+   
+}
+button {
+    margin-left: 40%;
+    width: 200px;
+}
